@@ -371,16 +371,6 @@ Transaction reconciliation is an important financial data-quality process. Autom
 
 ---
 
-## 👩‍💻 Author
-
-**Gayatri Aiwale**
-
-Computer Engineering Student
-VIT Pune
-
-GitHub: [Gayatri2707](https://github.com/Gayatri2707)
-
----
 
 ## ⭐ Project Status
 
